@@ -9,8 +9,8 @@ public class Main {
 		
 		List<Student> list = new ArrayList<Student>();
 
-		list.add(new Student(11, "±è¹Î¾Æ", 20););
-		list.add(new Student(12, "ÀÌ¹Î¾Æ", 22););
+		list.add(new Student(11, "±è¹Î¾Æ", 20));
+		list.add(new Student(12, "ÀÌ¹Î¾Æ", 22));
 		list.add(new Student(13, "ÃÖ¹Î¾Æ", 23));
 		list.add(new Student(14, "ÀÌÁö¾Æ", 26));
 		list.add(new Student(15, "ÇÏ¹Î¿ì", 24));
